@@ -86,10 +86,10 @@ You have no access!
 
 The client stores the cookies it got and the last JWT-token it has received
 
-Commands and what errors they signal
+## Commands and what errors they signal
 
 ![](./misc/err_table.png)
 
-Commnads and their interaction with cookies and headers
+## Commnads and their interaction with cookies and headers
 
 ![](./misc/cookie_table.bmp)
