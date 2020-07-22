@@ -5,6 +5,7 @@ This is a HTTP client that work with a REST API that works with an online librar
 # Implementation
 
 Information is sent and received as JSONs
+
 Authentification : JWT based
 
 Choosen library : parson.h
@@ -91,4 +92,4 @@ Commands and what errors they signal
 
 Commnads and their interaction with cookies and headers
 
-![](./misc/cookie_table.png)
+![](./misc/cookie_table.bmp)
