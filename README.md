@@ -58,4 +58,4 @@ The client stores the cookies it got and the last JWT-token it has received
 
 Commnads and their interaction with cookies and headers
 
-![](./misc/cookie_table.png)
+![](./misc/cookie_table.bmp)
